@@ -1,6 +1,6 @@
 galaxy_info:
-  role_name: apache install
-  namespace: my_galaxy_namespac
+  role_name: demo-ansible
+  namespace: cheppandi-charygaru 
   author: cheppandi-charygaru
   description: my first ansible role in galaxy
   company: amazon
