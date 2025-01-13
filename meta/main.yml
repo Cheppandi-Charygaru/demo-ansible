@@ -1,4 +1,6 @@
 galaxy_info:
+  role_name: cheppandi-charygaru
+  namespace: my_galaxy_namespace
   author: cheppandi-charygaru
   description: my first ansible role in galaxy
   company: amazon
